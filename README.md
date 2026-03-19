@@ -49,37 +49,22 @@ Supabase account
 
 Basic knowledge of Dart/Flutter
 
-# Installation
+#### Installation
 bash
-# Clone the repository
+#### Clone the repository
 git clone https://github.com/yourusername/cloudsnap.git
 
-# Navigate to project
+#### Navigate to project
 cd cloudsnap
 
-# Install dependencies
+#### Install dependencies
 flutter pub get
 
-# Run the app
+#### Run the app
 flutter run
-Supabase Setup
-Create a new Supabase project
 
-Set up a storage bucket named gallery-images
 
-Create a table images with columns:
-
-id (uuid, primary key)
-
-image_url (text)
-
-created_at (timestamp)
-
-user_id (uuid, references auth.users)
-
-Add your Supabase URL and anon key to .env file
-
-# Home Gallery	Image Detail	Upload
+## Home Gallery	Image Detail	Upload
 🧰 Dependencies
 yaml
 dependencies:
@@ -89,9 +74,8 @@ dependencies:
   image_picker: ^latest
   share_plus: ^latest
   intl: ^latest
-  # add others as needed
   
-# 🤝 Contributing
+  ## 🤝 Contributing
 This was built as a learning project to explore Flutter + Supabase integration. Feel free to fork, experiment, and improve!
 
 Fork the project
@@ -104,16 +88,15 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-# 📄 License
+## 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
-# 📬 Connect
+## 📬 Connect
 Faizan Sarfraz
 
 GitHub: @chfaizan1537
 
 LinkedIn: https://www.linkedin.com/in/faizan-sarfraz-3b150638b 
 
-Built with ☕ and Flutter as a personal learning project to understand cloud integration with mobile apps.
 
 ⭐ If you found this useful, consider giving it a star on GitHub!
