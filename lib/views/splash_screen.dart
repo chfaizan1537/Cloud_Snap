@@ -2,7 +2,6 @@ import 'package:cloud_snap4/routes/routes_names.dart';
 import 'package:cloud_snap4/widgets/custom_container.dart';
 import 'package:cloud_snap4/widgets/custom_text.dart';
 import 'package:flutter/material.dart';
-import 'package:async/async.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
 import 'package:google_fonts/google_fonts.dart';
