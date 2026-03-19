@@ -1,7 +1,11 @@
 # 📸 CloudSnap - Your Personal Cloud Gallery
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 A modern, minimalist cloud gallery built with Flutter and Supabase that lets you capture, store, and share moments instantly.
 
-✨ Features
+## ✨ Features
 📱 Clean Gallery View	All your images in one place, displayed beautifully
 📸 Capture & Upload	Take photos directly or pick from gallery
 ☁️ Cloud Storage	Secure storage powered by Supabase
@@ -10,7 +14,7 @@ A modern, minimalist cloud gallery built with Flutter and Supabase that lets you
 ⏱️ Image Details	View upload timestamp and metadata
 🔐 Single User Flow	Simple, personal gallery experience
 
-#  🎯 How It Works
+##  🎯 How It Works
 1. Upload
 Open the app → tap the + button → choose camera or gallery → image uploads automatically to cloud
 
