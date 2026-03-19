@@ -52,7 +52,7 @@ Basic knowledge of Dart/Flutter
 #### Installation
 bash
 #### Clone the repository
-git clone https://github.com/yourusername/cloudsnap.git
+git clone https://github.com/faizan-sarfraz/cloudsnap.git
 
 #### Navigate to project
 cd cloudsnap
@@ -94,7 +94,7 @@ Distributed under the MIT License. See LICENSE for more information.
 ## 📬 Connect
 Faizan Sarfraz
 
-GitHub: @chfaizan1537
+GitHub: @faizan-sarfraz
 
 LinkedIn: https://www.linkedin.com/in/faizan-sarfraz-3b150638b 
 
